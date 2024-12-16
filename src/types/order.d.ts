@@ -1,5 +1,5 @@
 export type IOrder = {
     id: string,
-    product: string,
-    customer: string
+    productId: string,
+    customerId: string
 }
